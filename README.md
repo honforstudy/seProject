@@ -7,7 +7,7 @@ This is a simulated STG arcade game,the goal is to make the plane to fight over 
 PlaneWar is an aircraft war game written in the java programming language </li>
 
 <li>This stage is source code, not yet packaged and exported </li>
-<li>you can directly use a java IDE (such as eclipse) open <font color="red">'GameWIn.Java'</font>, run the program. </li>
+<li>you can directly use a java IDE (such as eclipse) open <font color="red"><strong>'GameWIn.Java'</font></strong>, run the program. </li>
 
   
   
