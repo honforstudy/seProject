@@ -1,7 +1,7 @@
 <h1><strong>Shoot 'em up(STG)Game-PlaneWar</strong></h1>
 
 <h4>💬Story background & Description</h4>
-PlaneWars is a classic shooting game in which the player takes the role of a pilot and fights in the air aboard a fighter jet. In the game, you have to dodge enemy planes while using your weapons to attack them, shoot them down and protect your fighter from being hit. The gameplay of PlaneWars is simple and intuitive, but as the number of shoot-downs increases, the game becomes more challenging. The game was so popular that it became part of many players' childhood memories. Now, we are waiting for you to join the military conflict in the air, become the most excellent pilot to fight over a evil army and save the world! 
+PlaneWars is a classic shooting game in which the player takes the role of a pilot and fights in the air aboard a fighter jet to defend the land against the formidable air power of the enemy. This aerial war will test the skill, courage and loyalty of every pilot. In the game, you have to dodge enemy planes while using your weapons to attack them, shoot them down and protect your fighter from being hit. The gameplay of PlaneWars is simple and intuitive, but as the number of shoot-downs increases, the game becomes more challenging. The game was so popular that it became part of many players' childhood memories. Now, we are waiting for you to join the military conflict in the air, become the most excellent pilot to fight over a evil army and save the world! 
 
 <h2>⚠️warning⚠️</h2>
 <ul>
