@@ -50,14 +50,14 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
       
    <ul>
     <li>p2104747-Bob:</li>
-    Programming<br>
+    <p>Programming<br>
     Direction discussion<br>
-    graphic design<br>
+    graphic design<br></p>
     
     <li>p2104308-Jhonny:</li>
-    Data Collection<br>
+    <p>Data Collection<br>
     Direction discussion<br>
-    Bug fixing<br>
+    Bug fixing<br></p>
     
     <li>p2104581-GaryLei:</li>
     <p>Programming<br>
