@@ -42,7 +42,15 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 
 <h2>Software development plan</h2>
-
+<>
+<li>    </li>
+  <li>    </li>
+  <li>    </li>
+  <li>    </li>
+  <li>    </li>
+ <li>    </li>
+  
+  
   
 <ul>
   <li>Roles & Responsibilities & Portion</li>
