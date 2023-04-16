@@ -70,6 +70,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     <p>System testing</p>
     <p>Data Collection</p>
     <p>Direction discussion</p>
+    </ul>
     
   </ul>
   <br><br>
