@@ -18,7 +18,15 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <h3>How to play❓🖱️</h3>
 <ul>
-  <li> After opening the game, the home page will display "start", click the left mouse button to start the game</li>
+  <li> After opening the game, the home page will display "Click to Start", click the left mouse button to start the game</li>
   <li> Move the mouse to control the fighter to defeat the enemy and the boss</li>
   <li>  The current score is displayed in the upper left corner  </li>
  </ul>
+ 
+ </ol>
+ <h4>Demo(eclipse)</h4>
+ <p>URL:</p>
+ <li> <a href="https://www.youtube.com/watch?v=0_rIfyrRUVQ">https://www.youtube.com/watch?v=0_rIfyrRUVQ(eclipse installation tutorial)</a></li>
+ <li> <a href="https://youtu.be/uPLA_M6wgiE">https://youtu.be/uPLA_M6wgiE(eclipse tutorial)</a></li>
+ <li> <a href="https://youtube.com/shorts/_A_bz6G-pqQ?feature=share">https://youtube.com/shorts/_A_bz6G-pqQ?feature=share(gameplay demo)</a></li>
+</ol>
