@@ -49,15 +49,15 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <li>Roles & Responsibilities & Portion</li>
   <ul>
     <li>p2104747-Bob</li>
-    <br><p></p>
+    <p></p>
     <li>p2104308-Jhonny</li>
-    <br><p>Data Collection</p>
+    <p>Data Collection</p>
     <li>p2104581-GaryLei</li>
-    <br><p></p>
+    <p></p>
     <li>p2104780-Tobias</li>
-    <br><p></p>
+    <p></p>
     <li>p2104621-GaryLeong</li>
-    <br><p></p>
+    <p></p>
   </ul>
   <br><br>
   
