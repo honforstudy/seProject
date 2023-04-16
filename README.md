@@ -65,10 +65,12 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     <li>13/04/2023: bug fixing</li>
     <li>15/04/2023: bug fixing</li>
   </ul>
+  <br><br>
   
   
   <li>Current status</li>
   <p>Still some bugs appeared, but critical bugs are fixed, ver 1.0 can run smoothly</p>
+  <br><br>
   
   
   <li>Future Plan</li>
@@ -80,3 +82,4 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <li>BGM: we plan to add music to this game in the future. Each level will have different music. If feasible, we will also add music for boss battles.</li>
   </ol>
 </ul>
+<br><br>
