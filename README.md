@@ -65,8 +65,12 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     <li>13/04/2023: bug fixing</li>
     <li>15/04/2023: bug fixing</li>
   </ul>
+  
+  
   <li>Current status</li>
   <p>Still some bugs appeared, but critical bugs are fixed, ver 1.0 can run smoothly</p>
+  
+  
   <li>Future Plan</li>
   <ol>
   <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has its unique performance and weapon system, allowing players to experience different flying combat styles.</li>
