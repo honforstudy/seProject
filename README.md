@@ -47,9 +47,26 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <li></li>
   <li></li>
   <li></li>
-  <li></li>
+  <li>Schedule/ Development log</li>
+  <ul>
+    <li>15/02/2023: Project start. Designed the general development direction of the game.</li>
+    <li>22/02/2023: Summarize the collected data and discuss the main components that would appear on the stage.</li>
+    <li>26/02/2023: Design for the player-controlled plane movement and the system</li>
+    <li>28/02/2023: Bug fixing and system testing</li>
+    <li>01/03/2023: Bug fixing and system testing</li>
+    <li>08/03/2023: Design enemies objects and user-plane bullets</li>
+    <li>09/03/2023: Bug fixing and system testing</li>
+    <li>15/03/2023: Boss movement design</li>
+    <li>22/03/2023: Applied the enemy boss object</li>
+    <li>26/03/2023: Bug fixing</li>
+    <li>29/03/2023: Bug fixing</li>
+    <li>02/04/2023: add background objects</li>
+    <li>09/04/2023: add boss shoting feature</li>
+    <li>13/04/2023: bug fixing</li>
+    <li>15/04/2023: bug fixing</li>
+  </ul>
   <li>Current status</li>
-  <p>Still some bugs appear, but critical bugs are fixed, ver 1.0 can run smoothly</p>
+  <p>Still some bugs appeared, but critical bugs are fixed, ver 1.0 can run smoothly</p>
   <li>Future Plan</li>
   <ol>
   <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has its unique performance and weapon system, allowing players to experience different flying combat styles.</li>
