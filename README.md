@@ -44,20 +44,33 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 <h2>Software development plan</h2>
 
 <ul>
-  <li></li>
-  <li></li>
   <li>Roles & Responsibilities & Portion</li>
   <ul>
     <li>p2104747-Bob</li>
-    <p></p>
+    <p>Programming</p>
+    <p>Direction discussion</p>
+    <p>graphic design</p>
+    
     <li>p2104308-Jhonny</li>
     <p>Data Collection</p>
+    <p>Direction discussion</p>
+    <p>Bug fixing</p>
+    
     <li>p2104581-GaryLei</li>
-    <p></p>
+    <p>Programming</p>
+    <p>Direction discussion</p>
+    <p>Bug fixing</p>
+    
     <li>p2104780-Tobias</li>
-    <p></p>
+    <p>Programming</p>
+    <p>Direction discussion</p>
+    <p>System testing</p>
+    
     <li>p2104621-GaryLeong</li>
-    <p></p>
+    <p>System testing</p>
+    <p>Data Collection</p>
+    <p>Direction discussion</p>
+    
   </ul>
   <br><br>
   
