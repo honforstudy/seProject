@@ -52,11 +52,10 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <li> Art design: In this stage, we need to create the game's art assets, including player and enemy combat vehicle models, scene design, sound effects, and background music. We need to consider the game's style and theme, creating a pleasing gaming experience. Some art design software, such as Photoshop and Maya, will be needed in this stage.
    </li><br><br>
   <li>   Testing and optimization: In this stage, we need to conduct multiple tests and optimizations to ensure the game's stability and smoothness. We need to fix all errors and bugs, and optimize the game's performance and user experience. </li>
-  <li>    </li>
- <li>    </li>
-  
-  
+ 
+ 
 </ol>  
+
 <ul>
   <li>Roles & Responsibilities & Portion</li>
   <div>
