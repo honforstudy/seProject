@@ -55,7 +55,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
  
  
 </ol>  
-
+<br>
 <ul>
   <li>Roles & Responsibilities & Portion</li>
   <div>
