@@ -26,7 +26,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
  
  
  </ol>
- <h2>Demo(eclipse)</h2>
+ <h2>Demostration(eclipse)</h2>
  <p>URL:</p>
  <li> <a href="https://www.youtube.com/watch?v=0_rIfyrRUVQ">https://www.youtube.com/watch?v=0_rIfyrRUVQ</a>(eclipse installation tutorial)</li>
  <li> <a href="https://youtu.be/uPLA_M6wgiE">https://youtu.be/uPLA_M6wgiE</a>(eclipse tutorial)</li>
