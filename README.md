@@ -63,7 +63,6 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     <li>02/04/2023: add background objects</li>
     <li>09/04/2023: add boss shoting feature</li>
     <li>13/04/2023: bug fixing</li>
-    <li>15/04/2023: bug fixing</li>
   </ul>
   <br><br>
   
