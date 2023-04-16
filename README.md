@@ -37,5 +37,25 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <h2>Purpose of this Software</h2>
 <div>
-  <p>content(unfinished)</p>
+  <p>our group decide this project as time-to-market </p>
 </div>
+
+
+<h2>Software development plan</h2>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>Current status</li>
+  <p>Still some bugs appear, but critical bugs are fixed, ver 1.0 can run smoothly</p>
+  <li>Future Plan</li>
+  <ol>
+  <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has its unique performance and weapon system, allowing players to experience different flying combat styles.</li>
+  <li>Rich levels and enemies: The game has designed multiple challenging levels, where players need to fight under various terrains and weather conditions, and face different types of enemy planes, ground defense facilities, and powerful boss characters.</li>
+  <li>Upgrades and customization: By shooting down enemy planes and completing missions, players can obtain resources and experience points to upgrade the performance, weapons, and skills of their fighter jets. They can even customize the appearance of their fighter jets to create their own exclusive combat aircraft.</li>
+  <li>Multiplayer cooperative mode: The game supports multiplayer cooperative mode. Players can form teams with friends to challenge difficult levels together and support each other on the battlefield.</li>
+  <li>BGM: we plan to add music to this game in the future. Each level will have different music. If feasible, we will also add music for boss battles.</li>
+  </ol>
+</ul>
