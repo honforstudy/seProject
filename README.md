@@ -46,7 +46,22 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 <ul>
   <li></li>
   <li></li>
-  <li></li>
+  <li>Roles & Responsibilities & Portion</li>
+  <ul>
+    <li>p2104747-Bob</li>
+    <br><p></p>
+    <li>p2104308-Jhonny</li>
+    <br><p>Data Collection</p>
+    <li>p2104581-GaryLei</li>
+    <br><p></p>
+    <li>p2104780-Tobias</li>
+    <br><p></p>
+    <li>p2104621-GaryLeong</li>
+    <br><p></p>
+  </ul>
+  <br><br>
+  
+  
   <li>Schedule/ Development log</li>
   <ul>
     <li>15/02/2023: Project start. Designed the general development direction of the game.</li>
