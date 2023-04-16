@@ -42,16 +42,21 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 
 <h2>Software development plan</h2>
-<>
-<li>    </li>
-  <li>    </li>
-  <li>    </li>
-  <li>    </li>
+<ol>
+<li>   Game concept design: In this stage, we need to discuss the basic gameplay, game content, level design, game rules, etc. We also need to decide on the game's style, theme, and target audience.  </li>
+  <br><br>
+  <li>Game design: In this stage, we need to design the game's gameplay, enemy and player combat, and level details. We need to consider factors such as game difficulty, balance, and pacing, and optimize the gaming experience.</li>
+  <br><br>
+  <li>  Programming: In this stage, we need to decide which programming language to use and write the game's code. Programmers need to create game objects, characters, scenes, UI, etc., and implement all the features in the game design. During this stage, multiple tests and debugging are required.  </li>
+  <br><br>
+  <li> Art design: In this stage, we need to create the game's art assets, including player and enemy combat vehicle models, scene design, sound effects, and background music. We need to consider the game's style and theme, creating a pleasing gaming experience. Some art design software, such as Photoshop and Maya, will be needed in this stage.
+   </li><br><br>
+  <li>   Testing and optimization: In this stage, we need to conduct multiple tests and optimizations to ensure the game's stability and smoothness. We need to fix all errors and bugs, and optimize the game's performance and user experience. </li>
   <li>    </li>
  <li>    </li>
   
   
-  
+</ol>  
 <ul>
   <li>Roles & Responsibilities & Portion</li>
   <div>
