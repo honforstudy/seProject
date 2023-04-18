@@ -34,14 +34,18 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
  <li> <a href="https://youtube.com/shorts/_A_bz6G-pqQ?feature=share">https://youtube.com/shorts/_A_bz6G-pqQ?feature=share</a>(gameplay demo)</li>
 </ol>
 
+<ul>
+<h2>Declaration</h2>
+</ul>
 
 <h2>Purpose of this Software</h2>
 <div>
-  <p>our group decide this project as time-to-market </p>
+  <p>our group decide this project as time-to-market (not finished)</p>
 </div>
 
 
 <h2>Software development plan</h2>
+(not finished)
 <ol>
 <li>   Game concept design: In this stage, we need to discuss the basic gameplay, game content, level design, game rules, etc. We also need to decide on the game's style, theme, and target audience.  </li>
   <br>
