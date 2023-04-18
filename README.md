@@ -1,5 +1,5 @@
 <h1><strong>Shoot 'em up(STG)Game-PlaneWar</strong></h1>
-<img src="title.png" alt="png">
+<img src="1BBCC9C8-085F-4729-9766-D8A72C2BA945.jpeg" alt="jpg">
 
 <h4>💬Story background & Description</h4>
 PlaneWar is a classic shooting game in which the player takes the role of a pilot and fights in the air aboard a fighter jet to defend the land against the formidable air power of the enemy. This aerial war will test the skill, courage and loyalty of every pilot. In the game, you have to dodge enemy planes while using your weapons to attack them, shoot them down and protect your fighter from being hit. 
