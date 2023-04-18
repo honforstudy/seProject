@@ -36,6 +36,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <ul>
 <h2>Declaration</h2>
+  (not finished)
 </ul>
 
 <h2>Purpose of this Software</h2>
