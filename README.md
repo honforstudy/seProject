@@ -71,7 +71,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     -Direction discussion
     -graphic design
     
-    p2104308-Jhonny:
+    p2104308-Johnny:
     -Data Collection
     -Direction discussion
     -Bug fixing
