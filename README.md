@@ -36,7 +36,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <ul>
 <h2>Declaration</h2>
-  (not finished)
+  <li>all of the picture are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
 </ul>
 
 <h2>Purpose of this Software</h2>
