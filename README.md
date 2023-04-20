@@ -41,13 +41,11 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <h2>Purpose of this Software</h2>
 <div>
-  <p>Our group has decided this project as time-to-market (not finished)because we the content of our software is not very special one. Furthermore, our develop time is limited, so we need to publish as soon as possible. For strategic fit, development process is more trending to agile side cause a runable program is important than full version or quality base software. Therefore, we have made a short term version first, then getting update after. At last the version 1.0 is our final product.
-  For target market, obviously we are aiming for game industry. If we are really developing in real business matter, we may plan for beta test for customers and than getting feedback for upgrating</p>
+  <p>Our group has decided this project is time-to-market because the content of our software is not very special. Furthermore, our development time is limited, so we need to publish as soon as possible. For strategic fit, the development process is more trending toward the agile side because a runnable program is more important than a full version or quality-based software. Therefore, we have made a short-term version first and will get an update after. At last, version 1.0 is our final product. For our target market, obviously, we are aiming for the game industry. If we are really developing in a real business matter, we may plan a beta test for customers and then get feedback for upgrading.</p>
 </div>
 
 
 <h2>Software development plan</h2>
-(not finished)
 <ol>
 <li>   Game concept design: In this stage, we need to discuss the basic gameplay, game content, level design, game rules, etc. We also need to decide on the game's style, theme, and target audience.  </li>
   <br>
