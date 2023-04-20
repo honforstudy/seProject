@@ -65,12 +65,12 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <li>  Programming: Same as process 3 but just for adding new feature.  </li>
   <br>
   
-  <li> Art design: Art design for the new program.
+  <li> Art design: Art design for the updated program.
    </li><br>
   
-  <li> Testing and optimization: In this stage, we need to fix all errors and bugs, and optimize the game's performance and user experience. </li>
+  <li> Testing and optimization: In this stage, we need to fix all errors and bugs and optimize the game's performance and user experience.</li><br>
   
- <li>W have continuous the same process until the ver 1.0 finished</li>
+ <li>We have continued the same process until version 1.0 is finished.</li>
  
 </ol>  
 <br>
