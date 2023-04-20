@@ -2,17 +2,17 @@
 <img src="1BBCC9C8-085F-4729-9766-D8A72C2BA945.jpeg" alt="jpg">
 
 <h4>💬Story background & Description</h4>
-PlaneWar is a classic shooting game in which the player takes the role of a pilot and fights in the air aboard a fighter jet to defend the land against the formidable air power of the enemy. This aerial war will test the skill, courage and loyalty of every pilot. In the game, you have to dodge enemy planes while using your weapons to attack them, shoot them down and protect your fighter from being hit. 
+PlaneWar is a classic shooting game in which the player takes the role of a pilot and fights in the air aboard a fighter jet to defend the land against the formidable air power of the enemy. This aerial war will test every pilot's skill, courage, and loyalty. In the game, you must dodge enemy planes while using your weapons to attack them, shoot them down, and protect your fighter from being hit. 
 <br></br>
-The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-downs increases, the game becomes more challenging. The game was so popular that it became part of many players' childhood memories. Now, we are waiting for you to join the military conflict in the air, become the most excellent pilot to fight over a evil army and save the world! 
+The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-downs increases, the game becomes more challenging. The game was so popular that it became part of many players' childhood memories. Now, we are waiting for you to join the military conflict in the air, become the most excellent pilot to fight over an evil army, and save the world! 
 
 <h2>⚠️warning⚠️</h2>
 <ul>
-<li> Running platform: windows OS</li>
-<li> The equipment need to use： mouse</li>
-<li>PlaneWar is an aircraft war game written in the java programming language </li>
-<li>This stage is source code, not yet packaged and exported </li>
-<li>you can directly use a java IDE (such as eclipse) open <font color="red"><strong>'GameWin.Java'</font></strong>, run the program. </li>
+<li> Running platform: Windows OS </li>
+<li> The equipment needs to use: a mouse </li>
+<li> PlaneWar is an aircraft war game written in the Java programming language</li>
+<li> This stage is source code, not yet packaged and exported </li>
+<li> You can use a Java IDE (such as Eclipse), open <font color="red"><strong>'GameWin.Java'</font></strong> and run the program. </li>
 
 
 </ul>
@@ -36,41 +36,41 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <ul>
 <h2>Declaration</h2>
-  <li>all of the in-game object image are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
+  <li>all of the in-game object images are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
 </ul>
 
 <h2>Purpose of this Software</h2>
 <div>
-  <p>Our group has decided this project is time-to-market because the content of our software is not very special. Furthermore, our development time is limited, so we need to publish as soon as possible. For strategic fit, the development process is more trending toward the agile side because a runnable program is more important than a full version or quality-based software. Therefore, we have made a short-term version first and will get an update after. At last, version 1.0 is our final product. For our target market, obviously, we are aiming for the game industry. If we are really developing in a real business matter, we may plan a beta test for customers and then get feedback for upgrading.</p>
+  <p>Our group has decided this project is time-to-market because the content of our software could be more memorable. Furthermore, our development time is limited, so we must publish as soon as possible. The development process is trending toward the agile side for strategic fit because a runnable program is more important than a full version or quality-based software. Therefore, we have made a short-term version first and will get an update after. At last, version 1.0 is our final product. We are aiming for the game industry as our target market. If we are developing in a fundamental business matter, we may plan a beta test for customers and then get feedback for upgrading.</p>
 </div>
 
 
 <h2>Software development plan</h2>
 <ol>
   
-<li>   Game concept design: In this stage, we need to discuss the basic gameplay, game content, level design, game rules, etc. We also need to decide on the game's style, theme, and target audience.  </li>
+<li>   Game concept design: In this stage, we must discuss the basic gameplay, content, level design, game rules, etc. We must also decide on the game's style, theme, and target audience.  </li>
   <br>
   
-  <li>Game design: In this stage, we need to design the game's gameplay, enemy and player combat, and level details. We need to consider factors such as game difficulty, balance, and pacing, and optimize the gaming experience.</li>
+  <li>Game design: In this stage, we must design the game's gameplay, enemy, player combat, and level details. We must consider game difficulty, balance, and pacing factors and optimize the gaming experience.</li>
   <br>
   
-  <li>  Programming: In this stage, we need to decide which programming language to use and write the game's code. Programmers need to create game objects, characters, scenes, UI, etc., and implement all the features in the game design. During this stage, multiple tests and debugging are required.  </li>
+  <li>  Programming: In this stage, we must decide which programming language to use and write the game's code. Programmers must create game objects, characters, scenes, UI, etc., and implement all the features in the game design. During this stage, multiple tests and debugging are required.  </li>
   <br>
   
-  <li> Art design: In this stage, we need to create the game's art assets, including player and enemy combat vehicle models and scene design. We need to consider the game's style and theme, creating a pleasing gaming experience. Some art design software, such as Photoshop and Maya, will be needed in this stage.
+  <li> Art design: In this stage, we must create the game's art assets, including player and enemy combat vehicle models and scene design. We must consider the game's style and theme, creating a pleasing gaming experience. Some art design software, such as Photoshop and Maya, will be needed at this stage.
    </li><br>
   
-  <li>   Testing and optimization: In this stage, we need to conduct multiple tests and optimizations to ensure the game's stability and smoothness. We need to fix all errors and bugs, and optimize the game's performance and user experience. </li>
+  <li>   Testing and optimization: In this stage, we must conduct multiple tests and optimizations to ensure the game's stability and smoothness. We must fix all errors and bugs and optimize the game's performance and user experience. </li>
   
-  <li>  Programming: Same as process 3 but just for adding new feature.  </li>
+  <li>  Programming: Same as process three but just for adding a new feature.  </li>
   <br>
   
   <li> Art design: Art design for the updated program.
    </li><br>
   
-  <li> Testing and optimization: In this stage, we need to fix all errors and bugs and optimize the game's performance and user experience.</li><br>
+  <li> Testing and optimization: In this stage, we must fix all errors and bugs and optimize the game's performance and user experience.</li><br>
   
- <li>We have continued the same process until version 1.0 is finished.</li>
+ <li> We have continued the same process until version 1.0 is finished.</li>
  
 </ol>  
 <br>
@@ -112,7 +112,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <li>Schedule/ Development log</li>
   <ul>
     <li>15/02/2023: Project start. Designed the general development direction of the game.</li>
-    <li>22/02/2023: Summarize the collected data and discuss the main components that would appear on the stage.</li>
+    <li>22/02/2023: Summarize the collected data and discuss the main components appearing on the stage.</li>
     <li>26/02/2023: Design for the player-controlled plane movement and the system</li>
     <li>28/02/2023: Bug fixing and system testing</li>
     <li>01/03/2023: Bug fixing and system testing</li>
@@ -123,24 +123,24 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     <li>26/03/2023: Bug fixing</li>
     <li>29/03/2023: Bug fixing</li>
     <li>02/04/2023: add background objects</li>
-    <li>09/04/2023: add boss shoting feature</li>
+    <li>09/04/2023: add boss shooting feature</li>
     <li>13/04/2023: bug fixing</li>
   </ul>
   <br><br>
   
   
   <li>Current status</li>
-  <p>Still some bugs appeared, but critical bugs are fixed, ver 1.0 can run smoothly</p>
+  <p>Still, some bugs appeared, but critical bugs are fixed, ver 1.0 can run smoothly.</p>
   <br><br>
   
   
   <li>Future Plan</li>
   <ol>
-  <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has its unique performance and weapon system, allowing players to experience different flying combat styles.</li><br>
-  <li>Rich levels and enemies: The game has designed multiple challenging levels, where players need to fight under various terrains and weather conditions, and face different types of enemy planes, ground defense facilities, and powerful boss characters.</li><br>
-  <li>Upgrades and customization: By shooting down enemy planes and completing missions, players can obtain resources and experience points to upgrade the performance, weapons, and skills of their fighter jets. They can even customize the appearance of their fighter jets to create their own exclusive combat aircraft.</li><br>
-  <li>Multiplayer cooperative mode: The game supports multiplayer cooperative mode. Players can form teams with friends to challenge difficult levels together and support each other on the battlefield.</li><br>
-  <li>BGM: we plan to add music to this game in the future. Each level will have different music. If feasible, we will also add music for boss battles.</li>
+  <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has outstanding performance and weapon systems, allowing players to experience different flying combat styles.</li><br>
+  <li>Rich levels and enemies: The game has designed multiple challenging levels, where players must fight under various terrains and weather conditions and face different types of enemy planes, ground defense facilities, and powerful boss characters.</li><br>
+  <li>Upgrades and customization: By shooting down enemy planes and completing missions, players can obtain resources and experience points to upgrade the performance, weapons, and skills of their fighter jets. They can even customize the appearance of their fighter jets to create their exclusive combat aircraft.</li><br>
+  <li>Multiplayer cooperative mode: The game supports a suitable multiplayer mode. Players can form teams with friends to challenge difficult levels and support each other on the battlefield.</li><br>
+  <li>BGM: We plan to add music to this game in the future. Each level will have different music. We will also add music for boss battles.</li>
   </ol>
 </ul>
 <br><br>
