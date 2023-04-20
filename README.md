@@ -36,12 +36,13 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <ul>
 <h2>Declaration</h2>
-  <li>all of the object image are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
+  <li>all of the in-game object image are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
 </ul>
 
 <h2>Purpose of this Software</h2>
 <div>
-  <p>our group decide this project as time-to-market (not finished)</p>
+  <p>Our group has decided this project as time-to-market (not finished)because we the content of our software is not very special one. Furthermore, our develop time is limited, so we need to publish as soon as possible. For strategic fit, development process is more trending to agile side cause a runable program is important than full version or quality base software. Therefore, we have made a short term version first, then getting update after. At last the version 1.0 is our final product.
+  For target market, obviously we are aiming for game industry. If we are really developing in real business matter, we may plan for beta test for customers and than getting feedback for upgrating</p>
 </div>
 
 
