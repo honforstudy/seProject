@@ -134,7 +134,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   <br><br>
   
   
-  <li><font size ="24">Future Plan</font></li>
+  <font size ="24"><li>Future Plan</li></font>
   <ol>
   <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has outstanding performance and weapon systems, allowing players to experience different flying combat styles.</li><br>
   <li>Rich levels and enemies: The game has designed multiple challenging levels, where players must fight under various terrains and weather conditions and face different types of enemy planes, ground defense facilities, and powerful boss characters.</li><br>
