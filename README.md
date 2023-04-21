@@ -48,7 +48,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 <h2>Software development plan</h2>
 <ol>
   
-<li>   **Game concept design:** In this stage, we must discuss the basic gameplay, content, level design, game rules, etc. We must also decide on the game's style, theme, and target audience.  </li>
+<li>   <strong>Game concept design:</strong> In this stage, we must discuss the basic gameplay, content, level design, game rules, etc. We must also decide on the game's style, theme, and target audience.  </li>
   <br>
   
   <li>Game design: In this stage, we must design the game's gameplay, enemy, player combat, and level details. We must consider game difficulty, balance, and pacing factors and optimize the gaming experience.</li>
