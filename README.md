@@ -51,24 +51,24 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 <li>   <strong>Game concept design:</strong> In this stage, we must discuss the basic gameplay, content, level design, game rules, etc. We must also decide on the game's style, theme, and target audience.  </li>
   <br>
   
-  <li>Game design: In this stage, we must design the game's gameplay, enemy, player combat, and level details. We must consider game difficulty, balance, and pacing factors and optimize the gaming experience.</li>
+  <li><strong>Game design:</strong> In this stage, we must design the game's gameplay, enemy, player combat, and level details. We must consider game difficulty, balance, and pacing factors and optimize the gaming experience.</li>
   <br>
   
-  <li>  Programming: In this stage, we must decide which programming language to use and write the game's code. Programmers must create game objects, characters, scenes, UI, etc., and implement all the features in the game design. During this stage, multiple tests and debugging are required.  </li>
+  <li>  <strong>Programming:</strong> In this stage, we must decide which programming language to use and write the game's code. Programmers must create game objects, characters, scenes, UI, etc., and implement all the features in the game design. During this stage, multiple tests and debugging are required.  </li>
   <br>
   
-  <li> Art design: In this stage, we must create the game's art assets, including player and enemy combat vehicle models and scene design. We must consider the game's style and theme, creating a pleasing gaming experience. Some art design software, such as Photoshop and Maya, will be needed at this stage.
+  <li> <strong>Art design:</strong> In this stage, we must create the game's art assets, including player and enemy combat vehicle models and scene design. We must consider the game's style and theme, creating a pleasing gaming experience. Some art design software, such as Photoshop and Maya, will be needed at this stage.
    </li><br>
   
-  <li>   Testing and optimization: In this stage, we must conduct multiple tests and optimizations to ensure the game's stability and smoothness. We must fix all errors and bugs and optimize the game's performance and user experience. </li>
+  <li>   <strong>Testing and optimization:</strong> In this stage, we must conduct multiple tests and optimizations to ensure the game's stability and smoothness. We must fix all errors and bugs and optimize the game's performance and user experience. </li>
    <br>
-  <li>  Programming: Same as process three but just for adding a new feature.  </li>
+  <li>  <strong>Programming:</strong> Same as process three but just for adding a new feature.  </li>
   <br>
   
-  <li> Art design: Art design for the updated program.
+  <li> <strong>Art design:</strong> Art design for the updated program.
    </li><br>
   
-  <li> Testing and optimization: In this stage, we must fix all errors and bugs and optimize the game's performance and user experience.</li><br>
+  <li> <strong>Testing and optimization:</strong> In this stage, we must fix all errors and bugs and optimize the game's performance and user experience.</li><br>
   
  <li> We have continued the same process until version 1.0 is finished.</li>
  
@@ -136,11 +136,11 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
   
   <font size ="24"><li>Future Plan</li></font>
   <ol>
-  <li>Diverse fighter jets: The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has outstanding performance and weapon systems, allowing players to experience different flying combat styles.</li><br>
-  <li>Rich levels and enemies: The game has designed multiple challenging levels, where players must fight under various terrains and weather conditions and face different types of enemy planes, ground defense facilities, and powerful boss characters.</li><br>
-  <li>Upgrades and customization: By shooting down enemy planes and completing missions, players can obtain resources and experience points to upgrade the performance, weapons, and skills of their fighter jets. They can even customize the appearance of their fighter jets to create their exclusive combat aircraft.</li><br>
-  <li>Multiplayer cooperative mode: The game supports a suitable multiplayer mode. Players can form teams with friends to challenge difficult levels and support each other on the battlefield.</li><br>
-  <li>BGM: We plan to add music to this game in the future. Each level will have different music. We will also add music for boss battles.</li>
+  <li><strong>Diverse fighter jets:</strong> The game offers a variety of unique fighter jets for players to choose from. From high-speed maneuverable fighters to heavy bombers, each fighter jet has outstanding performance and weapon systems, allowing players to experience different flying combat styles.</li><br>
+  <li><strong>Rich levels and enemies:</strong> The game has designed multiple challenging levels, where players must fight under various terrains and weather conditions and face different types of enemy planes, ground defense facilities, and powerful boss characters.</li><br>
+  <li><strong>Upgrades and customization:</strong> By shooting down enemy planes and completing missions, players can obtain resources and experience points to upgrade the performance, weapons, and skills of their fighter jets. They can even customize the appearance of their fighter jets to create their exclusive combat aircraft.</li><br>
+  <li><strong>Multiplayer cooperative mode:</strong> The game supports a suitable multiplayer mode. Players can form teams with friends to challenge difficult levels and support each other on the battlefield.</li><br>
+  <li><strong>BGM:</strong> We plan to add music to this game in the future. Each level will have different music. We will also add music for boss battles.</li>
   </ol>
 </ul>
 <br><br>
