@@ -14,7 +14,7 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 <li> This stage is source code, not yet packaged and exported </li>
 <li> You can choose to run the game in two different ways：
 <ol><li>Download file<strong> "planeWar1 eng-ver 1.0.zip"</strong>and unzip it,Open the Java IDE (such as Eclipse) and import "planeWar1 eng-ver 1.0" directory,open <font color="red"><strong>'GameWin.Java'</font></strong> and run the program. </li>
-<li>Download file<strong> "planeWar1.0 (JAR) "</strong>Go to the directory folder and double-click <strong>"planeWar.jar"</strong></li></ol></li>
+<li>Download file<strong> "planeWar1.0 (JAR) "and unzip it,</strong>Go to the directory folder and double-click <strong>"planeWar.jar"</strong></li></ol></li>
 
 
 </ul>
