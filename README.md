@@ -12,7 +12,9 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 <li> The equipment needs to use: a mouse </li>
 <li> PlaneWar is an aircraft war game written in the Java programming language</li>
 <li> This stage is source code, not yet packaged and exported </li>
-<li> You can use a Java IDE (such as Eclipse), open <font color="red"><strong>'GameWin.Java'</font></strong> and run the program. </li>
+<li> You can choose to run the game in two different ways：
+<ol><li>Use a Java IDE (such as Eclipse), open <font color="red"><strong>'GameWin.Java'</font></strong> and run the program. </li>
+<li>Download file "planeWar1.0 (JAR) "Go to the directory folder and double-click "planeWar.jar"</li></ol></li>
 
 
 </ul>
