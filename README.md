@@ -85,16 +85,15 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     p2104747-Bob:
     -Programming
     -Direction discussion
-    -graphic design
+    -Graphic design
     
     p2104308-Johnny:
     -Data Collection
     -Direction discussion
-    -Bug fixing
     
     p2104581-GaryLei:
     -Programming
-    -Direction discussion
+    -Graphic design
     -Bug fixing
     
     p2104780-Tobias:
@@ -103,7 +102,6 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
     -System testing
     
     p2104621-GaryLeong:
-    -System testing
     -Data Collection
     -Direction discussion
    
