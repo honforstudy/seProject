@@ -38,7 +38,8 @@ The gameplay of PlaneWar is simple and intuitive, but as the number of shoot-dow
 
 <ul>
 <h2>Declaration</h2>
-  <li>all of the in-game object images are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
+  <li>all of the in-game object images(execpt boss fighter) are made by Bob Hon using <a href="https://www.pixilart.com/">pixilart.com</a></li>
+  <li>boss fighter images is made by Gary using <a href="https://www.pixilart.com/](https://www.gaituya.com/aiimg/">https://www.gaituya.com/aiimg/</a></li>
 </ul>
 
 <h2>Purpose of this Software</h2>
